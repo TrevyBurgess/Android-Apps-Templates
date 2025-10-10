@@ -1,4 +1,4 @@
-package com.CyberFeedForward.trevygames.ui.theme
+package com.cyberfeedforward.trevygames.ui.theme
 
 import android.app.Activity
 import android.os.Build

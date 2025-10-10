@@ -1,4 +1,4 @@
-package com.CyberFeedForward.trevygames
+package com.cyberfeedforward.trevygames
 
 import org.junit.Test
 

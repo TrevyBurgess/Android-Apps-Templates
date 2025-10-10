@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.CyberFeedForward.trevygames"
+    namespace = "com.cyberfeedforward.trevygames"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.CyberFeedForward.trevygames"
+        applicationId = "com.cyberfeedforward.trevygames"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

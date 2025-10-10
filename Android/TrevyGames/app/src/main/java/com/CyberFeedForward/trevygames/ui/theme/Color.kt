@@ -1,4 +1,4 @@
-package com.CyberFeedForward.trevygames.ui.theme
+package com.cyberfeedforward.trevygames.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
